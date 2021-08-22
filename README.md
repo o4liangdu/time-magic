@@ -22,7 +22,7 @@
     npm i time-magic
 
 * 示例
-    ```
+    ```js
         const { formatTime, getDescription } = require('time-magic')
 
         // 精确到秒
