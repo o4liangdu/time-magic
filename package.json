@@ -1,0 +1,13 @@
+{
+  "name": "time-magic",
+  "version": "1.0.3",
+  "author": "liangdo <liangdo18@qq.com>",
+  "description": "极简实用的时间组件",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+
+  },
+  "keywords": [],
+  "license": "ISC"
+}
